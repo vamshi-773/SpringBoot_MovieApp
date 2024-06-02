@@ -1,0 +1,38 @@
+.navbar-contents {
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    list-style-type: none;
+}
+.navbar
+{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+.nav-link
+{
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.login-button
+{
+    font-family: roboto;
+    color: yellow;
+    border-color: yellow;
+    width: fit-content;
+}
+*{
+    font-family: roboto;
+}
+.pg-ending
+{
+    position: absolute;
+    bottom: 15px;
+    display: flex;
+    flex-direction: row;
+}

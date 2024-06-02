@@ -1,0 +1,51 @@
+.navbar-contents {
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    list-style-type: none;
+}
+.navbar
+{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+.nav-link
+{
+    margin-left: 50px;
+}
+body
+{
+    background-color: #2e2e2e;
+}
+.login-button
+{
+    font-family: roboto;
+    color: yellow;
+    border-color: yellow;
+    width: fit-content;
+}
+*{
+    font-family: roboto;
+}
+.rec-movies
+{
+    position: absolute;
+    left: 3px;
+    top: 15%;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+.rec-cards
+{
+    margin-right: 50px;
+}
+.upcoming-movies
+{
+    position: absolute;
+    left: 3px;
+    top: 90%;
+}

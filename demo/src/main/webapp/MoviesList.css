@@ -1,0 +1,61 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #343a40; /* Dark text color */
+    font-family: 'Roboto', sans-serif; /* Roboto font family */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-wrapper {
+    background-color: #ffffff; /* White background */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    max-width: 400px; /* Maximum width of the form */
+    width: 100%;
+}
+
+.form-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    display: block;
+    font-weight: bold;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da; /* Light gray border */
+    border-radius: 5px;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #495057; /* Dark text color */
+}
+
+.submit-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Blue submit button */
+    color: #ffffff; /* White text color */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
