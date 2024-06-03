@@ -42,7 +42,7 @@
     </a>
     <ul class="dropdown-menu">
         <c:forEach items="${lobj}" var="lobj">
-            <li><a class="dropdown-item" href="http://localhost:1818/movieList/${lobj.name}">${lobj.name}</a></li>
+            <li><a class="dropdown-item" href="movieList/${lobj.name}">${lobj.name}</a></li>
         </c:forEach>
     </ul>
 </div>
