@@ -17,7 +17,6 @@
 </style>
 </head>
 <body>
-<h3 style="text-align: center;">Welcome Back ${uname}</h3>
 <nav class="navbar navbar-expand-lg navbar-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="homePage">Home</a>

@@ -35,7 +35,7 @@
             </ul>
         </nav>
         <ul class="pg-ending">
-            <li class="nav-link"><a href="#"><button class="btn" style="background-color: yellow;border-color: yellow;"><b>Create Lists</b></button></a></li>
+            <li class="nav-link"><a href="movieLists"><button class="btn" style="background-color: yellow;border-color: yellow;"><b>Create Lists</b></button></a></li>
             <li class="nav-link"><a href="#"><button class="btn login-button">MORE</button></a></li>
         </ul>
     </div>
