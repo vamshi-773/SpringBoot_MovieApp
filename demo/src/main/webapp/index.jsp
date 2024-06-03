@@ -15,7 +15,7 @@
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2" style="border-radius: 50%;height: 15px;width: 15px;"></button>
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3" style="border-radius: 50%;height: 15px;width: 15px;"></button>
         </div>
-        <div class="carousel-inner">
+        <div class="carousel-inner">* 
             <div class="carousel-item active" style="width:100%;height:641px; background: url(https://wallpapercave.com/wp/wp4926029.jpg);background-size:cover;">
             <h1 style="color: white; position: absolute;top:35%;letter-spacing: 3px;right: 15px;"><b>SPIDER MAN FAR</b></h1>
             <h1  style="color: white; position: absolute;top:45%;letter-spacing: 3px;right: 35px;"><b>FROM HOME</b></h1>
